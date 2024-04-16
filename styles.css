@@ -46,3 +46,16 @@ article{
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.more{
+  border: 2px solid green;
+  width: 100px;
+  margin-top: 10px;
+  padding: 5px;
+}
+.more:hover{
+  color: white;
+  background: green;
+  border: none;
+  border-radius: 2px;
+}
